@@ -13,7 +13,7 @@ Um guia completo e prático para aprender Python, desde os fundamentos até tóp
 - [Módulo 3: Intermediário-Avançado](#módulo-3-intermediário-avançado)
 - [Módulo 4: Avançado](#módulo-4-avançado)
 - [Módulo 5: Projetos Práticos](#módulo-5-projetos-práticos)
-- [Módulo 6: Aplicação Desktop com Banco de Dados](#módulo-5-projetos-práticos)
+- [Módulo 6: Aplicação Desktop com Banco de Dados](#módulo-6-aplicação-desktop-com-banco-de-dados)
 ---
 
 ## Sobre o Projeto
