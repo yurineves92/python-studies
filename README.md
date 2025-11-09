@@ -13,8 +13,7 @@ Um guia completo e prático para aprender Python, desde os fundamentos até tóp
 - [Módulo 3: Intermediário-Avançado](#módulo-3-intermediário-avançado)
 - [Módulo 4: Avançado](#módulo-4-avançado)
 - [Módulo 5: Projetos Práticos](#módulo-5-projetos-práticos)
-- [Recursos Adicionais](#recursos-adicionais)
-
+- [Módulo 6: Aplicação Desktop com Banco de Dados](#módulo-5-projetos-práticos)
 ---
 
 ## Sobre o Projeto
@@ -32,6 +31,7 @@ Este repositório contém um tutorial completo de Python, organizado em módulos
 **Módulo 3:** Intermediário-Avançado (4-5 semanas)  
 **Módulo 4:** Avançado (5-6 semanas)  
 **Módulo 5:** Projetos Práticos (contínuo)
+**Módulo 6:** Aplicação Desktop (contínuo)
 
 ---
 
@@ -601,6 +601,74 @@ Conceitos aplicados:
 
 ---
 
+## Módulo 6: Aplicação Desktop com Banco de Dados
+
+**Duração:** 3-4 semanas  
+**Nível:** Intermediário-Avançado
+
+### Projeto: Sistema de Tarefas (To-Do List) Desktop
+
+Aplicação desktop completa com interface gráfica e banco de dados SQLite.
+
+### Conteúdo
+
+#### 13. Tkinter - Interface Gráfica
+
+**13.1 Widgets Básicos**
+
+Aprenda sobre:
+- Janelas e frames
+- Labels, Buttons, Entry
+- Listbox, Combobox
+- Treeview para tabelas
+- Layout managers: pack, grid, place
+
+**13.2 Eventos e Bindings**
+
+Aprenda sobre:
+- Command em botões
+- Bind para eventos
+- Event handlers
+- Callbacks
+
+**13.3 Messagebox e Dialogs**
+
+Aprenda sobre:
+- showinfo, showwarning, showerror
+- askyesno, askokcancel
+- Validação de entrada
+
+#### 14. SQLite - Banco de Dados
+
+**14.1 Conexão e Tabelas**
+
+Aprenda sobre:
+- sqlite3 module
+- Criar conexão
+- Criar tabelas com CREATE TABLE
+- Tipos de dados: INTEGER, TEXT, REAL
+- PRIMARY KEY, AUTOINCREMENT
+
+**14.2 Operações CRUD**
+
+Aprenda sobre:
+- INSERT - Adicionar registros
+- SELECT - Consultar dados
+- UPDATE - Atualizar registros
+- DELETE - Excluir registros
+- WHERE clause
+- ORDER BY
+
+**14.3 Boas Práticas**
+
+Aprenda sobre:
+- Context managers
+- Prepared statements (?)
+- Commit e rollback
+- Fechar conexões
+- Tratamento de erros
+
+---
 ## Dicas de Estudo
 
 1. **Pratique todos os dias** - Mesmo que seja 30 minutos
@@ -656,7 +724,8 @@ Conceitos aplicados:
 - [X] Jogo da Forca
 - [X] Sistema de Cadastro
 
----
+### Módulo 6: Aplicação Desktop
+- [X] To-do
 
 **Feito com dedicação para quem quer aprender Python**
 
