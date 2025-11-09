@@ -658,42 +658,6 @@ Conceitos aplicados:
 
 ---
 
-## Próximos Passos
-
-Após completar este tutorial, você pode:
-
-1. **Escolher uma especialização:**
-   - Web Development (Django, Flask, FastAPI)
-   - Data Science (Pandas, Scikit-learn, TensorFlow)
-   - Automação (Selenium, PyAutoGUI)
-   - APIs e Microserviços
-
-2. **Construir portfolio:**
-   - Criar projetos no GitHub
-   - Documentar bem seus projetos
-   - Contribuir para projetos open source
-
-3. **Continuar aprendendo:**
-   - Fazer cursos avançados
-   - Ler livros especializados
-   - Participar de hackathons
-   - Resolver desafios de código
-
----
-
-## Conquistas
-
-Ao completar este tutorial, você será capaz de:
-
-- Desenvolver aplicações Python completas
-- Trabalhar com diferentes paradigmas de programação
-- Utilizar bibliotecas populares
-- Implementar testes automatizados
-- Criar projetos para seu portfolio
-- Estar preparado para o mercado de trabalho
-
----
-
 **Feito com dedicação para quem quer aprender Python**
 
 **Bons estudos!**
